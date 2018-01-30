@@ -12,6 +12,6 @@ Python 开发了很多明星网站，例如 YouTube、Instagram、Douban.
 
  任何关于数据分析的模块都少不了它们两个
 
-## Matplotlib 是一个非常强大的 Python 画图工具
+## Matplotlib
 
  Matplotlib 是一个非常强大的 Python 画图工具
