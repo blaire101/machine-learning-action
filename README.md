@@ -1,5 +1,5 @@
 
-# python\_data\_mining
+# data mining for python
 
 ## Python
 
